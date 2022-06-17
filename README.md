@@ -39,5 +39,13 @@ currency_blah = theory.createCurrency("B", "B");
     }
 ```
 
+## Go Idea from Throngjwk?
+```js
+function getCreateOrder(id, name) {
+   var Order = id;
+   var OrderName = name;
+}
+```
+
 ## Idea
 $$ e^x $$
